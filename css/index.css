@@ -364,8 +364,6 @@ footer{
         font-size: 20px;
         margin-bottom: 10px;
     }
-    /* ~ => 그 뒤부터 존재하는 모든 선택자 */
-    /* + => 바로뒤에 있는 형제 선택자 하나 */
 }
 @media screen and (max-width:480px) {
     .best .list .item .text h4{
